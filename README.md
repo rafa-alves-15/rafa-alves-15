@@ -15,6 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=chartreuse-dark" />
  </a>
  
+ ## My Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
