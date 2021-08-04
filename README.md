@@ -5,7 +5,6 @@
 </div>
 
 <br>
-<br>
 
 ![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
 
