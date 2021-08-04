@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/rafael-alves-silva-150/">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
+<br>
 <br>
 
 ![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
