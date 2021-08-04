@@ -3,6 +3,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/rafael-alves-silva-150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<a target="_blank" href="mailto:rafaelalves.15@outlook.com">
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" />
+</a>
 
 <br>
 
