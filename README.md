@@ -22,7 +22,7 @@
   
  </br>
  <a href="https://github.com/rafa-alves-15/Hush-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=Hush-Game&theme=chartreuse-dark" />
  </a>
  <a href="https://github.com/rafa-alves-15/project-2-my-own-help">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=chartreuse-dark" />
