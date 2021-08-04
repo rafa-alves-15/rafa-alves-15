@@ -1,4 +1,4 @@
-## Eu sou Rafael Alves! 
+## Olá, Eu sou Rafael!😁
 
 <a target="_blank" href="mailto:rafaelalves.15@outlook.com">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Outlook&logoColor=white" />
