@@ -1,5 +1,9 @@
 ## Olá, Eu sou Rafael!😁
 
+## Sobre mim:
+I am a Junior Full-Stack Developer.
+
+
 <a target="_blank" href="mailto:rafaelalves.15@outlook.com">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
