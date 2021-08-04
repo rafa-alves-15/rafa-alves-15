@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/rafael-alves-silva-150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![](https://www.codewars.com/users/rafa.alves.15)
+![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
+
  <div>
   <a href="https://github.com/rafa-alves-15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
