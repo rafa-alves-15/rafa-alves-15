@@ -2,15 +2,15 @@
  <div>
   <a href="https://github.com/rafa-alves-15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
  </br>
  <a href="https://github.com/rafa-alves-15/Hush-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=chartreuse-dark" />
  </a>
  <a href="https://github.com/rafa-alves-15/project-2-my-own-help">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=chartreuse-dark" />
  </a>
  
  <div style="display: inline_block"><br>
@@ -18,7 +18,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="">
 </div>
  
  </br>
