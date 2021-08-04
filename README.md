@@ -1,4 +1,6 @@
 ## Eu sou Rafael Alves!  
+
+![](https://www.codewars.com/users/rafa.alves.15)
  <div>
   <a href="https://github.com/rafa-alves-15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -13,12 +15,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=chartreuse-dark" />
  </a>
  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
  
  </br>
 
