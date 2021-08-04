@@ -1,7 +1,7 @@
 ## Eu sou Rafael Alves! 
 
 <a target="_blank" href="mailto:rafaelalves.15@outlook.com">
-  <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" />
 </a>
   
 <a href="https://www.linkedin.com/in/rafael-alves-silva-150/">
