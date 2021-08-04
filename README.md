@@ -25,6 +25,11 @@
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-69419A?style=flat&logo=mongodb&logoColor=white)
+
+## GitHub Stats
+
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudaF&theme=synthwave&show_icons=true)](https://github.com/RudaF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudaF&theme=synthwave&layout=compact)](https://github.com/RudaF/github-readme-stats)
  
  </br>
 
