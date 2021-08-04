@@ -1,5 +1,9 @@
 ## Eu sou Rafael Alves!  
 
+<div> 
+  <a href="https://www.linkedin.com/in/rafael-alves-silva-150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ![](https://www.codewars.com/users/rafa.alves.15)
  <div>
   <a href="https://github.com/rafa-alves-15">
@@ -31,7 +35,3 @@
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
  </br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/rafael-alves-silva-150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
