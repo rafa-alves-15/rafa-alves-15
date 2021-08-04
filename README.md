@@ -1,10 +1,12 @@
 ## Eu sou Rafael Alves! 
 
 <a target="_blank" href="mailto:rafaelalves.15@outlook.com">
-  <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
-<a href="https://www.linkedin.com/in/rafael-alves-silva-150/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rafael-alves-silva-150/">
+  <img align="center" alt="Outlook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 <br>
