@@ -23,6 +23,7 @@
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-69419A?style=flat&logo=mongodb&logoColor=white)
  
  </br>
 
