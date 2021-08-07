@@ -31,12 +31,10 @@ Eu sou um Desenvolvedor Full Stack.
  <a href="https://github.com/rafa-alves-15/project-2-my-own-help">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=project-2-my-own-help&theme=chartreuse-dark" />
  </a>
-  <a href="https://github.com/flememaia/iron_fast_pass_front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flememaia&repo=iron_fast_pass_front&theme=chartreuse-dark" />
+  <a href="https://github.com/rafa-alves-15/ironfastpass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=ironfastpass&theme=chartreuse-dark" />
  </a>
-   <a href="https://github.com/flememaia/iron_fast_pass_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flememaia&repo=iron_fast_pass_backend&theme=chartreuse-dark" />
- </a>
+
  
  ## My Stack:
 
