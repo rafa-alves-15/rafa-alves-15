@@ -1,7 +1,7 @@
 ## Olá, Eu sou Rafael!😁
 
 ## Sobre mim:
-Sou um Desenvolvedor Full Stack.
+Sou Desenvolvedor Backend.
 
 
 <a target="_blank" href="mailto:rafaelalves.15@outlook.com">
