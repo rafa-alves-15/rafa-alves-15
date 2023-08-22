@@ -14,7 +14,7 @@ Sou Desenvolvedor Backend.
 <br>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=aluga-mais&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=great-gatsby" />
 
 ![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
 
