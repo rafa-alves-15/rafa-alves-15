@@ -20,14 +20,13 @@ Sou Desenvolvedor Backend.
  <div>
   <a href="https://github.com/rafa-alves-15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
  <div>
-  <a href="https://github.com/AndySS-Maker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndySS-Maker&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndySS-Maker&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/rafa-alves-15">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
   ## Meus Projetos:
