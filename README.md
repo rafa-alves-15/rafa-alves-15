@@ -14,13 +14,12 @@ Sou Desenvolvedor Backend.
 <br>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=great-gatsby" />
 
 ![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
 
  <div>
   <a href="https://github.com/rafa-alves-15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&repo=Hush-Game&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
